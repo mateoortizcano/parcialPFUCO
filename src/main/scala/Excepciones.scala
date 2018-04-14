@@ -1,0 +1,3 @@
+object CuentaNoActivaException extends Exception
+object CuentaCerradaException extends Exception
+object EstadoInvalidoException extends Exception
